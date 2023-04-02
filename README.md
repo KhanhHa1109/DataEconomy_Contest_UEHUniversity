@@ -6,7 +6,6 @@ This repository contains the submission for the **"Data Economy Contest 2023 - R
 - DS001 - K46 - Nguyễn Quỳnh Khánh Hà
 - DS001 - K46 - Nguyễn Trịnh Thu Huyền 
 - DS001 - K46 - Trần Mạnh Tường
-______
 
 ## Acknowledgement
 The aim of the contest is to focus on analyzing customer behavior in online shopping. 
