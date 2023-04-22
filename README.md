@@ -16,6 +16,3 @@ The analysis includes a general overview of the dataset, such as product categor
 All analysis is presented through visually appealing charts, tables, and maps, showcasing the team's ability to communicate complex economic theories through data analysis.
 
 The recommendations provided are practical and feasible for businesses to implement, based on the team's thorough analysis of customer behavior. Overall, this repository serves as a valuable resource for businesses looking to improve their online sales strategies.
-
-
-
