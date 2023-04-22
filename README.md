@@ -1,7 +1,7 @@
 # DataEconomy_Contest_UEH University
 This repository contains the submission for the **"Data Economy Contest 2023 - Round 2 - UEH University"** (Topic: *Storytelling with data*)
 
-## Team DS: **Top 2 Runner-Up Team**
+## Team DS: **The First Runner-Up Team**
 - DS001 - K46 - Mai Trần Mỹ Uyên
 - DS001 - K46 - Nguyễn Quỳnh Khánh Hà
 - DS001 - K46 - Nguyễn Trịnh Thu Huyền 
